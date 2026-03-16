@@ -1,14 +1,10 @@
 [
   {
     "name": "🐎 Treino Paladino",
-    "link": "https://raw.githubusercontent.com/SEUUSUARIO/tw-scripts/main/scripts/treino_paladino.js"
+    "link": "https://raw.githubusercontent.com/jecler-dev/PackBeta/refs/heads/main/scripts/Treino_Paladino.js"
   },
   {
     "name": "🌾 Farm Bot",
-    "link": "https://raw.githubusercontent.com/SEUUSUARIO/tw-scripts/main/scripts/farm_bot.js"
-  },
-  {
-    "name": "🏗 Builder",
-    "link": "https://raw.githubusercontent.com/SEUUSUARIO/tw-scripts/main/scripts/builder.js"
+    "link": "https://raw.githubusercontent.com/usuario/tw-scripts/main/scripts/farm_bot.js"
   }
 ]
