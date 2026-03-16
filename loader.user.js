@@ -5,15 +5,15 @@
 // @description  Painel lateral que carrega scripts do GitHub com estilo BetaScripts
 // @match        https://*.tribalwars.com.br/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/SEUUSUARIO/tw-scripts/main/loader.user.js
-// @downloadURL  https://raw.githubusercontent.com/SEUUSUARIO/tw-scripts/main/loader.user.js
+// @updateURL    https://github.com/jecler-dev/PackBeta/raw/refs/heads/main/loader.user.js
+// @downloadURL  https://github.com/jecler-dev/PackBeta/raw/refs/heads/main/loader.user.js
 // ==/UserScript==
 
 (function() {
     'use strict';
 
     // Link RAW do buttons.json público no GitHub
-    const GITHUB_JSON = "https://raw.githubusercontent.com/SEUUSUARIO/tw-scripts/main/buttons.json";
+    const GITHUB_JSON = "https://github.com/jecler-dev/PackBeta/raw/refs/heads/main/buttons.json";
     const STORAGE_KEY = "BetaScriptsButtons";
 
     const BUTTON_HEIGHT = 32;
