@@ -1,14 +1,14 @@
 [
   {
-    "name": "⚖ WH Balancer",
-    "link": "https://shinko-to-kuma.com/scripts/WHBalancerShinkoToKuma.js"
+    "name": "🐎 Treino Paladino",
+    "link": "https://raw.githubusercontent.com/SEUUSUARIO/tw-scripts/main/scripts/treino_paladino.js"
   },
   {
     "name": "🌾 Farm Bot",
-    "link": "https://raw.githubusercontent.com/seuuser/tw-scripts/main/farm.js"
+    "link": "https://raw.githubusercontent.com/SEUUSUARIO/tw-scripts/main/scripts/farm_bot.js"
   },
   {
-    "name": "Paladino",
-    "link": "https://raw.githubusercontent.com/jecler-dev/PackBeta/refs/heads/main/Treino%20Paladino.js"
+    "name": "🏗 Builder",
+    "link": "https://raw.githubusercontent.com/SEUUSUARIO/tw-scripts/main/scripts/builder.js"
   }
 ]
